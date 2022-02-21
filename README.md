@@ -1,7 +1,4 @@
 # Week 6 Assignment
-### Test kısmı yetişmedi o yüzden eksik
-### Örnek requestler assets klasöründe bulunmakta
-### Database olarak Oracle kullanıldı
 
 In this assignment, we expect to you develop a configurable backend service that having the following business requirements:
 
